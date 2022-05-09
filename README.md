@@ -38,7 +38,10 @@ Deep Learning model implementation with Pytorch and summary
 [paper](https://arxiv.org/abs/1506.01497) & [paper summary](https://hyeok-jong.github.io/paper%20object%20detection/Paper_faster/)       
 
 #### 2.5 SSD 2016  
-[paper](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_2) & [paper summary](https://hyeok-jong.github.io/paper%20object%20detection/Paper_SSD/)       
+[paper](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_2) & [paper summary](https://hyeok-jong.github.io/paper%20object%20detection/Paper_SSD/)  
+
+#### 2.6 YOLO 2015  
+[Pytorch Implementation](https://github.com/hyeok-jong/Object_detection) & [paper](https://arxiv.org/abs/1506.02640)
 
 ## 3. Generative Model  
 
