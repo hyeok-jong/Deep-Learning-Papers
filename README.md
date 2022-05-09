@@ -46,7 +46,7 @@ Deep Learning model implementation with Pytorch and summary
 [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) & [paper summary](https://hyeok-jong.github.io/paper%20generative/Style_transfer/)       
 
 #### 3.2 DCGAN 2016  
-[code](https://github.com/hyeok-jong/DCGAN) & [paper](https://arxiv.org/abs/1511.06434) & [paper summary](https://hyeok-jong.github.io/paper%20generative/DCGAN/)   
+[Pytorch Implementation](https://github.com/hyeok-jong/DCGAN) & [paper](https://arxiv.org/abs/1511.06434) & [paper summary](https://hyeok-jong.github.io/paper%20generative/DCGAN/)   
 
 ## 4. 3D Vision  
 
