@@ -6,9 +6,8 @@ Deep Learning model implementation with Pytorch and summary
 ## 1. Base Line Models ( Classification and Segmentation )             
 
 #### 1.1 ResNet 2015 and 2016 ( pre-activation )                       
-[paper](https://arxiv.org/abs/1512.03385)              
-[paper summary](https://hyeok-jong.github.io/paper%20base%20line/Paper_ResNet/)              
-[Pytorch Implementation](https://github.com/hyeok-jong/ResNet)                
+[Pytorch Implementation](https://github.com/hyeok-jong/ResNet)    [paper](https://arxiv.org/abs/1512.03385)       [paper summary](https://hyeok-jong.github.io/paper%20base%20line/Paper_ResNet/)         
+             
             
 #### 1.2 AlexNet 2012                            
 [paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)              
