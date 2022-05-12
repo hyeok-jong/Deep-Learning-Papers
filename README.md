@@ -1,7 +1,13 @@
 ## Deep Learning Models
 Deep Learning model implementation with Pytorch and summary
 
+## 0. Generative Model  
 
+#### 0.1 DCGAN 2016  
+[Pytorch Implementation](https://github.com/hyeok-jong/DCGAN) & [paper](https://arxiv.org/abs/1511.06434) & [paper summary](https://hyeok-jong.github.io/paper%20generative/DCGAN/)   
+
+#### 0.2 Style transfer 2016  
+[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) & [paper summary](https://hyeok-jong.github.io/paper%20generative/Style_transfer/)       
 
 ## 1. Base Line Models ( Classification and Segmentation )             
 
@@ -43,30 +49,24 @@ Deep Learning model implementation with Pytorch and summary
 #### 2.6 YOLO 2015  
 [Pytorch Implementation](https://github.com/hyeok-jong/Object_detection) & [paper](https://arxiv.org/abs/1506.02640)
 
-## 3. Generative Model  
 
-#### 3.1 Style transfer 2016  
-[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) & [paper summary](https://hyeok-jong.github.io/paper%20generative/Style_transfer/)       
 
-#### 3.2 DCGAN 2016  
-[Pytorch Implementation](https://github.com/hyeok-jong/DCGAN) & [paper](https://arxiv.org/abs/1511.06434) & [paper summary](https://hyeok-jong.github.io/paper%20generative/DCGAN/)   
+## 3. 3D Vision  
 
-## 4. 3D Vision  
-
-#### 4.1 NeRF 2020  
+#### 3.1 NeRF 2020  
 [paper](https://arxiv.org/abs/2003.08934) & [paper summary](https://hyeok-jong.github.io/paper%203d%20vision/NeRF/)       
 
-#### 4.2 Instant NGP 2022  
+#### 3.2 Instant NGP 2022  
 [paper](https://nvlabs.github.io/instant-ngp/) & [paper summary](https://hyeok-jong.github.io/paper%203d%20vision/Instant/)       
 
-## 5. Vision Transformer  
+## 4. Vision Transformer  
 
-#### 5.1 ViT 2020  
+#### 4.1 ViT 2020  
 [paper](https://arxiv.org/abs/2010.11929) & [paper summary](https://hyeok-jong.github.io/vision%20transformer/Paper_ViT/)       
 
-## 6. NLP  
+## 5. NLP  
 
-#### 6.1 Attention is all you need 2017  
+#### 5.1 Attention is all you need 2017  
 [paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) & [paper summary](https://hyeok-jong.github.io/paper%20nlp/Paper_attention_is_all_u_need/)       
 
 
